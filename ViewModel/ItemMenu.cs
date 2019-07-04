@@ -9,7 +9,7 @@ using System.Windows.Controls;
 
 namespace WpfApp1.ViewModel
 {
-    class ItemMenu
+    public class ItemMenu
     {
         public ItemMenu(string header, List<SubItem> subItems, PackIconKind icon)
         {

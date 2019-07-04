@@ -7,7 +7,7 @@ using System.Windows.Controls;
 
 namespace WpfApp1.ViewModel
 {
-    class SubItem
+    public class SubItem
     {
         public SubItem(string name, UserControl screen = null)
         {
