@@ -10,7 +10,7 @@ Here is an application of [Material Design](https://material.io/design/), applic
 
 ### Thanks to : 
 
-*  [Abel13](https://github.com/Abel13) for his youtube [youtube.com/designcomwpf](channel) 
+*  [Abel13](https://github.com/Abel13) for his youtube [channel](youtube.com/designcomwpf) 
 *  [Materarial Design Xaml](http://materialdesigninxaml.net) for this package
 
 **_Greetings to COLEADER TECHNOLOGY Team_**
